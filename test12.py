@@ -1,0 +1,27 @@
+phrase= "my game"
+print(phrase.replace("my "," your "))
+print(7)
+print(-7)
+print(7.7)
+print(8+8)
+print(16-9)
+print(8*11)
+print(77/11)
+print(4+5*10)
+print((4+5)*10)
+print(10%8)
+my_num = 7
+print(my_num)
+print(str(my_num))
+print(str(my_num) + " is my fav number")
+mynum = -77
+print(abs(mynum))
+print(pow(2,4))
+print(pow(3,5))
+print(max(9,0))
+print(max(7,1))
+print(min(6,4))
+print(round(4.4))
+print(round(5.5))
+print(round(6.7))
+
