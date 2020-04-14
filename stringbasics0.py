@@ -1,0 +1,2 @@
+print("camel \nacademy")
+
