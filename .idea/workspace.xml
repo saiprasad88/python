@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/34test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586950180735</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test commit">
+      <created>1586952912390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586952912390</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,10 +246,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586709897289" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1586950179485">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1586952910860">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1586950179485" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1586952910860" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -281,6 +286,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1302" height="192" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1586945558945" />
+    <state x="494" y="82" key="RollbackChangesDialog" timestamp="1586953311554">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="494" y="82" key="RollbackChangesDialog/0.0.1360.728@0.0.1360.728" timestamp="1586953311554" />
     <state x="375" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1586933303255">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
