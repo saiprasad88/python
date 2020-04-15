@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test25functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test15.py" beforeDir="false" afterPath="$PROJECT_DIR$/test15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +50,8 @@
       <recent name="C:\Users\SaiPrasad\Desktop\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test15">
-    <configuration name="test11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test25functions">
+    <configuration name="test21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test25functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test25functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test15" />
-        <item itemvalue="Python.test14" />
-        <item itemvalue="Python.test13" />
-        <item itemvalue="Python.test12" />
-        <item itemvalue="Python.test11" />
+        <item itemvalue="Python.test25functions" />
+        <item itemvalue="Python.test24" />
+        <item itemvalue="Python.test23" />
+        <item itemvalue="Python.test22" />
+        <item itemvalue="Python.test21" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586864151174</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test commit">
+      <created>1586864855426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586864855426</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,30 +228,50 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586709897289" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1586864148870">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1586864853517">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1586864148870" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1586864853517" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="115" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586710973244" />
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1586864797000">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1586947150412">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586864797000" />
-    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1586864796999">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586947150412" />
+    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1586947150412">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586864796999" />
-    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1586864796999">
+    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586947150412" />
+    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1586947150412">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586864796999" />
-    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1586864796999">
+    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586947150412" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1586947150412">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586864796999" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586947150412" />
+    <state width="1302" height="192" key="GridCell.Tab.1.bottom" timestamp="1586945558945">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1302" height="192" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586945558945" />
+    <state width="1302" height="192" key="GridCell.Tab.1.center" timestamp="1586945558945">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1302" height="192" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1586945558945" />
+    <state width="1302" height="192" key="GridCell.Tab.1.left" timestamp="1586945558945">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1302" height="192" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1586945558945" />
+    <state width="1302" height="192" key="GridCell.Tab.1.right" timestamp="1586945558945">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1302" height="192" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1586945558945" />
+    <state x="375" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1586933303255">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="183" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1586933303255" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
