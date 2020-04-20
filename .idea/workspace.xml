@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/36 test calci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/35test.py" beforeDir="false" afterPath="$PROJECT_DIR$/35test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <recent name="C:\Users\SaiPrasad\Desktop\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.35test">
+  <component name="RunManager" selected="Python.36 test calci">
     <configuration name="34test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +84,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="36 test calci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/36 test calci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="if else elif 33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,27 +118,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if else elif 33.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="if et else 31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if et else 31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.36 test calci" />
         <item itemvalue="Python.35test" />
         <item itemvalue="Python.34test" />
         <item itemvalue="Python.if et else 32" />
         <item itemvalue="Python.if else elif 33" />
-        <item itemvalue="Python.if et else 31" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586953319929</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test commit">
+      <created>1587378771797</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587378771797</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,30 +261,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586709897289" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1586953318710">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587378767673">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1586953318710" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587378767673" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="115" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586710973244" />
-    <state width="1302" height="192" key="GridCell.Tab.0.bottom" timestamp="1586953330539">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587379499848">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="192" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586953330539" />
-    <state width="1302" height="192" key="GridCell.Tab.0.center" timestamp="1586953330539">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587379499848" />
+    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587379499848">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="192" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586953330539" />
-    <state width="1302" height="192" key="GridCell.Tab.0.left" timestamp="1586953330539">
+    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587379499848" />
+    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587379499848">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="192" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586953330539" />
-    <state width="1302" height="192" key="GridCell.Tab.0.right" timestamp="1586953330539">
+    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587379499848" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587379499848">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="192" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586953330539" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587379499848" />
     <state width="1302" height="192" key="GridCell.Tab.1.bottom" timestamp="1586953330539">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
