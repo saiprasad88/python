@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/37test dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38test dic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39test whileloop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,28 +41,7 @@
       <recent name="C:\Users\SaiPrasad\Desktop\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.38test dic2">
-    <configuration name="34test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.39test whileloop">
     <configuration name="35test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,13 +126,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="39test whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39test whileloop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.39test whileloop" />
         <item itemvalue="Python.38test dic2" />
         <item itemvalue="Python.37test dict" />
         <item itemvalue="Python.36 test calci" />
         <item itemvalue="Python.35test" />
-        <item itemvalue="Python.34test" />
       </list>
     </recent_temporary>
   </component>
@@ -253,13 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587379565287</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=" 37 38 test dic">
+      <created>1587380909546</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587380909546</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value=" 36 calci" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 36 calci" />
+    <MESSAGE value=" 37 38 test dic" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 37 38 test dic" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586710025555">
@@ -270,30 +277,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586709897289" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587379564086">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587380908146">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587379564086" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587380908146" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="115" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586710973244" />
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587380876598">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587381530429">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587380876598" />
-    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587380876597">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587381530429" />
+    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587381530428">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587380876597" />
-    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587380876597">
+    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587381530428" />
+    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587381530428">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587380876597" />
-    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587380876598">
+    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587381530428" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587381530429">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587380876598" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587381530429" />
     <state width="1302" height="192" key="GridCell.Tab.1.bottom" timestamp="1586953330539">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
