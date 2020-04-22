@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/40while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41 whileadvanc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forintro0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forintro1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forintro2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forintro3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forintro4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forintro5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foritro6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +47,8 @@
       <recent name="C:\Users\SaiPrasad\Desktop\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.41 whileadvanc">
-    <configuration name="37test dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.foritro6">
+    <configuration name="forintro2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37test dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="38test dic2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="forintro3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/38test dic2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="39test whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="forintro4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39test whileloop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="40while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="forintro5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="41 whileadvanc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="foritro6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/41 whileadvanc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/foritro6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.41 whileadvanc" />
-        <item itemvalue="Python.40while" />
-        <item itemvalue="Python.39test whileloop" />
-        <item itemvalue="Python.38test dic2" />
-        <item itemvalue="Python.37test dict" />
+        <item itemvalue="Python.foritro6" />
+        <item itemvalue="Python.forintro5" />
+        <item itemvalue="Python.forintro4" />
+        <item itemvalue="Python.forintro3" />
+        <item itemvalue="Python.forintro2" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +272,22 @@
       <option name="project" value="LOCAL" />
       <updated>1587394544651</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=" while test dic">
+      <created>1587479866928</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587479866929</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value=" 36 calci" />
     <MESSAGE value=" 37 38 test dic" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 37 38 test dic" />
+    <MESSAGE value=" while test dic" />
+    <option name="LAST_COMMIT_MESSAGE" value=" while test dic" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586710025555">
@@ -285,30 +298,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586709897289" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587394543031">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587479864890">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587394543031" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587479864890" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="115" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586710973244" />
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587479821833">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587538256226">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587479821833" />
-    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587479821832">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
+    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587538256226">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587479821832" />
-    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587479821832">
+    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
+    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587538256226">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587479821832" />
-    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587479821832">
+    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587538256226">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587479821832" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
     <state width="1302" height="192" key="GridCell.Tab.1.bottom" timestamp="1586953330539">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -329,10 +342,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="494" y="82" key="RollbackChangesDialog/0.0.1360.728@0.0.1360.728" timestamp="1586953311554" />
-    <state x="375" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1587477716923">
+    <state x="375" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1587537402850">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="375" y="183" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587477716923" />
+    <state x="375" y="183" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587537402850" />
     <state x="489" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586950847456">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
