@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/forintro0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forintro1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forintro2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forintro3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forintro4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forintro5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foritro6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2dlistfor1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2dlistforintro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2dlistintro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2dlistintro1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUILDATRANSL2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildatranslat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildtransl1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forexpointro0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +47,8 @@
       <recent name="C:\Users\SaiPrasad\Desktop\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.foritro6">
-    <configuration name="forintro2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BUILDATRANSL2">
+    <configuration name="2dlistfor1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2dlistfor1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forintro3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2dlistforintro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2dlistforintro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forintro4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BUILDATRANSL2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BUILDATRANSL2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forintro5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buildatranslat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forintro5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buildatranslat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="foritro6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buildtransl1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/foritro6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buildtransl1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.foritro6" />
-        <item itemvalue="Python.forintro5" />
-        <item itemvalue="Python.forintro4" />
-        <item itemvalue="Python.forintro3" />
-        <item itemvalue="Python.forintro2" />
+        <item itemvalue="Python.BUILDATRANSL2" />
+        <item itemvalue="Python.buildtransl1" />
+        <item itemvalue="Python.buildatranslat" />
+        <item itemvalue="Python.2dlistfor1" />
+        <item itemvalue="Python.2dlistforintro" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587479866929</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="for basics">
+      <created>1587538279736</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587538279736</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,7 +294,8 @@
     <MESSAGE value=" 36 calci" />
     <MESSAGE value=" 37 38 test dic" />
     <MESSAGE value=" while test dic" />
-    <option name="LAST_COMMIT_MESSAGE" value=" while test dic" />
+    <MESSAGE value="for basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="for basics" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586710025555">
@@ -298,30 +306,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586709897289" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587479864890">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587538277800">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587479864890" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587538277800" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="115" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586710973244" />
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587538256226">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587540200297">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
-    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587538256226">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587540200297" />
+    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587540200297">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
-    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587538256226">
+    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587540200297" />
+    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587540200297">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
-    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587538256226">
+    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587540200297" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587540200297">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587538256226" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587540200297" />
     <state width="1302" height="192" key="GridCell.Tab.1.bottom" timestamp="1586953330539">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -358,6 +366,11 @@
           <url>file://$PROJECT_DIR$/test12.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/foritro6.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
