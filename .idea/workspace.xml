@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="buildbasics">
-      <change afterPath="$PROJECT_DIR$/employees" afterDir="false" />
+    <list default="true" id="3ee871f1-8f8c-48d3-8d99-be7ac3ec8ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readingfilesbasic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readingfilesbasic3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readingfilesbasic4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readingfilesbasic5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readingfilesbasic6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readingfilesbasics0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readingfilesbasics1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees" beforeDir="false" afterPath="$PROJECT_DIR$/employees" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +48,8 @@
       <recent name="C:\Users\SaiPrasad\Desktop\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tryexcept6">
-    <configuration name="TRYEXCEPT5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.readingfilesbasic6">
+    <configuration name="readingfilesbasic2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TRYEXCEPT5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readingfilesbasic2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tryexcept2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="readingfilesbasic3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryexcept2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readingfilesbasic3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tryexcept3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="readingfilesbasic4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryexcept3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readingfilesbasic4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tryexcept4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="readingfilesbasic5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryexcept4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readingfilesbasic5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tryexcept6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="readingfilesbasic6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryexcept6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readingfilesbasic6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tryexcept6" />
-        <item itemvalue="Python.TRYEXCEPT5" />
-        <item itemvalue="Python.tryexcept4" />
-        <item itemvalue="Python.tryexcept3" />
-        <item itemvalue="Python.tryexcept2" />
+        <item itemvalue="Python.readingfilesbasic6" />
+        <item itemvalue="Python.readingfilesbasic5" />
+        <item itemvalue="Python.readingfilesbasic4" />
+        <item itemvalue="Python.readingfilesbasic3" />
+        <item itemvalue="Python.readingfilesbasic2" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587541393609</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="employees">
+      <created>1587650373702</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587650373702</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,7 +318,8 @@
     <MESSAGE value=" while test dic" />
     <MESSAGE value="for basics" />
     <MESSAGE value="buildbasics" />
-    <option name="LAST_COMMIT_MESSAGE" value="buildbasics" />
+    <MESSAGE value="employees" />
+    <option name="LAST_COMMIT_MESSAGE" value="employees" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586710025555">
@@ -315,30 +330,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="435" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1587650248529" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587541442305">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1587650371176">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587541442305" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1587650371176" />
     <state x="460" y="115" key="FileChooserDialogImpl" timestamp="1586710973244">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="115" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586710973244" />
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587543826187">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom" timestamp="1587651604764">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587543826187" />
-    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587543826187">
+    <state width="1302" height="154" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587651604764" />
+    <state width="1302" height="154" key="GridCell.Tab.0.center" timestamp="1587651604764">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587543826187" />
-    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587543826187">
+    <state width="1302" height="154" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587651604764" />
+    <state width="1302" height="154" key="GridCell.Tab.0.left" timestamp="1587651604764">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587543826187" />
-    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587543826187">
+    <state width="1302" height="154" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587651604764" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right" timestamp="1587651604764">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587543826187" />
+    <state width="1302" height="154" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587651604764" />
     <state width="1302" height="192" key="GridCell.Tab.1.bottom" timestamp="1586953330539">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
