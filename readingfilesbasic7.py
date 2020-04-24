@@ -1,3 +1,4 @@
 employees_file = open("employees.txt", "r")
-print(employees_file.readlines()[3])
+for employee in employees_file.readlines():
+    print(employee)
 employees_file.close()
